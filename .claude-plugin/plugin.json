@@ -1,0 +1,15 @@
+{
+  "name": "skills",
+  "version": "1.0.0",
+  "description": "Collection of development workflow skills",
+  "author": "Denis Declercq",
+  "license": "MIT",
+  "skills": [
+    "skills/challenge-change",
+    "skills/review-implementation",
+    "skills/debug-systematically",
+    "skills/explain-architecture",
+    "skills/prepare-pr",
+    "skills/security-review"
+  ]
+}

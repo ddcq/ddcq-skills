@@ -1,0 +1,14 @@
+{
+  "name": "skills-marketplace",
+  "version": "1.0.0",
+  "description": "Marketplace for development workflow skills",
+  "owner": "Denis Declercq",
+  "plugins": [
+    {
+      "name": "skills",
+      "description": "Collection of development workflow skills",
+      "path": ".",
+      "version": "1.0.0"
+    }
+  ]
+}
