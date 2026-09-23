@@ -26,14 +26,14 @@ claude --plugin-dir .
 Then invoke a skill with its namespaced name, for example:
 
 ```text
-/skills:challenge-change
+/ddcq-skills:challenge-change
 ```
 
 ## Install from a marketplace
 
 ```text
-/plugin marketplace add ddcq/skills
-/plugin install skills@skills-marketplace
+/plugin marketplace add ddcq/ddcq-skills
+/plugin install ddcq-skills@ddcq-skills-marketplace
 ```
 
 Review the skill source before installing it. Skills influence Claude's behavior but are not a hard security boundary.

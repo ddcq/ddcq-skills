@@ -14,7 +14,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 ### Fixed
 
 - Register missing skills in `.claude-plugin/plugin.json`
-- Align README install names with manifest (`skills`, `skills-marketplace`)
+- Align README install names with manifest (`ddcq-skills`, `ddcq-skills-marketplace`)
 
 ## [1.0.0] - 2026-09-23
 

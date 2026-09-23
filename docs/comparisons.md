@@ -1,12 +1,12 @@
 # Comparison with Similar Claude Code Skills
 
-This document explains how the skills in `claude-dev-skills` compare with representative public Claude Code skills and plugins.
+This document explains how the skills in `ddcq-skills` compare with representative public Claude Code skills and plugins.
 
 It is not an exhaustive inventory of every skill published online. The comparison focuses on established projects, official Anthropic plugins, and public implementations whose source code can be inspected.
 
 ## Project positioning
 
-`claude-dev-skills` provides lightweight, evidence-based engineering gates for Claude Code.
+`ddcq-skills` provides lightweight, evidence-based engineering gates for Claude Code.
 
 The collection intentionally favors:
 
